@@ -1,73 +1,73 @@
 {
-  "update_time": "2026-07-09 11:47:36",
+  "update_time": "2026-07-10 11:47:13",
   "strategy": "周线爆发",
-  "count": 13,
+  "count": 15,
   "stocks": [
+    {
+      "code": "000518",
+      "name": "四环生物",
+      "price": 4.06,
+      "change_pct": 1.75,
+      "volume": 1377079.0,
+      "turnover": 0,
+      "high": 4.23,
+      "low": 3.85,
+      "open": 3.87
+    },
     {
       "code": "002346",
       "name": "柘中股份",
-      "price": 19.83,
+      "price": 21.81,
       "change_pct": 9.98,
-      "volume": 30735.0,
+      "volume": 95315.0,
       "turnover": 0,
-      "high": 19.83,
-      "low": 18.06,
-      "open": 18.06
-    },
-    {
-      "code": "002559",
-      "name": "亚威股份",
-      "price": 11.96,
-      "change_pct": -0.75,
-      "volume": 681205.0,
-      "turnover": 0,
-      "high": 12.38,
-      "low": 11.54,
-      "open": 12.26
+      "high": 21.81,
+      "low": 20.75,
+      "open": 21.09
     },
     {
       "code": "300506",
       "name": "名家汇",
-      "price": 6.41,
-      "change_pct": 14.06,
-      "volume": 670444.0,
+      "price": 6.57,
+      "change_pct": 2.5,
+      "volume": 545826.0,
       "turnover": 0,
-      "high": 6.74,
-      "low": 5.55,
-      "open": 5.68
+      "high": 6.63,
+      "low": 6.29,
+      "open": 6.43
     },
     {
       "code": "300540",
       "name": "蜀道装备",
-      "price": 47.33,
-      "change_pct": 6.82,
-      "volume": 298022.0,
+      "price": 44.94,
+      "change_pct": -5.05,
+      "volume": 322157.0,
       "turnover": 0,
-      "high": 47.64,
-      "low": 42.58,
-      "open": 44.0
+      "high": 51.22,
+      "low": 44.75,
+      "open": 46.97
     },
     {
       "code": "300655",
       "name": "晶瑞电材",
-      "price": 18.96,
-      "change_pct": 7.42,
-      "volume": 1007516.0,
+      "price": 17.59,
+      "change_pct": -7.23,
+      "volume": 1271268.0,
       "turnover": 0,
-      "high": 19.05,
-      "low": 17.77,
-      "open": 18.01
+      "high": 19.83,
+      "low": 17.59,
+      "open": 19.2
     },
     {
       "code": "300717",
       "name": "华信新材",
-      "price": 24.92,
-      "change_pct": 2.13,
-      "volume": 114531.0,
+      "price": 24.1,
+      "change_pct": -3.29,
+      "volume": 73590.0,
       "turnover": 0,
-      "high": 25.77,
-      "low": 23.4,
-      "open": 23.87
+      "high": 24.79,
+      "low": 23.9,
+      "open": 24.68
     },
     {
       "code": "600263",
@@ -94,57 +94,79 @@
     {
       "code": "600851",
       "name": "海欣股份",
-      "price": 8.71,
-      "change_pct": 5.19,
-      "volume": 343102.0,
+      "price": 8.78,
+      "change_pct": 0.8,
+      "volume": 288337.0,
       "turnover": 0,
-      "high": 9.11,
-      "low": 8.21,
-      "open": 8.27
+      "high": 8.99,
+      "low": 8.4,
+      "open": 8.4
     },
     {
       "code": "603339",
       "name": "四方科技",
-      "price": 15.33,
-      "change_pct": -0.9,
-      "volume": 351241.0,
+      "price": 16.25,
+      "change_pct": 6.0,
+      "volume": 373563.0,
       "turnover": 0,
-      "high": 15.74,
-      "low": 15.02,
-      "open": 15.68
+      "high": 16.34,
+      "low": 15.0,
+      "open": 15.0
     },
     {
       "code": "603928",
       "name": "兴业股份",
-      "price": 18.0,
-      "change_pct": 10.02,
-      "volume": 670688.0,
+      "price": 18.8,
+      "change_pct": 4.44,
+      "volume": 829035.0,
       "turnover": 0,
-      "high": 18.0,
-      "low": 16.35,
-      "open": 17.0
+      "high": 19.8,
+      "low": 17.0,
+      "open": 17.36
+    },
+    {
+      "code": "605178",
+      "name": "时空科技",
+      "price": 101.55,
+      "change_pct": 10.0,
+      "volume": 18649.0,
+      "turnover": 0,
+      "high": 101.55,
+      "low": 92.5,
+      "open": 96.01
     },
     {
       "code": "688123",
       "name": "聚辰股份",
-      "price": 217.12,
-      "change_pct": 13.27,
-      "volume": 19546014.0,
+      "price": 204.01,
+      "change_pct": -6.04,
+      "volume": 17419192.0,
       "turnover": 0,
-      "high": 218.65,
-      "low": 185.88,
-      "open": 199.83
+      "high": 235.99,
+      "low": 204.01,
+      "open": 218.02
     },
     {
       "code": "688222",
       "name": "成都先导",
-      "price": 33.45,
-      "change_pct": 9.1,
-      "volume": 27229569.0,
+      "price": 35.87,
+      "change_pct": 7.23,
+      "volume": 33818051.0,
       "turnover": 0,
-      "high": 34.34,
-      "low": 30.12,
-      "open": 30.73
+      "high": 36.9,
+      "low": 32.6,
+      "open": 32.9
+    },
+    {
+      "code": "688710",
+      "name": "益诺思",
+      "price": 77.87,
+      "change_pct": 20.0,
+      "volume": 6857749.0,
+      "turnover": 0,
+      "high": 77.87,
+      "low": 64.0,
+      "open": 65.88
     }
   ]
 }
