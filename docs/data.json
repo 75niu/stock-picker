@@ -1,8 +1,30 @@
 {
-  "update_time": "2026-07-14 10:41:19",
+  "update_time": "2026-07-15 10:43:23",
   "strategy": "周线爆发",
-  "count": 5,
+  "count": 7,
   "stocks": [
+    {
+      "code": "300142",
+      "name": "沃森生物",
+      "price": 13.79,
+      "change_pct": 2.45,
+      "volume": 1388790.0,
+      "turnover": 0,
+      "high": 14.14,
+      "low": 13.25,
+      "open": 13.28
+    },
+    {
+      "code": "300717",
+      "name": "华信新材",
+      "price": 23.57,
+      "change_pct": 5.98,
+      "volume": 72984.0,
+      "turnover": 0,
+      "high": 23.68,
+      "low": 22.02,
+      "open": 22.02
+    },
     {
       "code": "600263",
       "name": "路桥建设",
@@ -28,35 +50,35 @@
     {
       "code": "600851",
       "name": "海欣股份",
-      "price": 8.72,
-      "change_pct": 1.75,
-      "volume": 187912.0,
+      "price": 9.14,
+      "change_pct": 4.82,
+      "volume": 383340.0,
       "turnover": 0,
-      "high": 8.75,
-      "low": 8.26,
-      "open": 8.43
+      "high": 9.4,
+      "low": 8.61,
+      "open": 8.65
     },
     {
       "code": "603682",
       "name": "锦和商管",
-      "price": 8.93,
-      "change_pct": 1.71,
-      "volume": 173423.0,
+      "price": 9.07,
+      "change_pct": 1.57,
+      "volume": 178259.0,
       "turnover": 0,
-      "high": 9.16,
-      "low": 8.52,
-      "open": 8.95
+      "high": 9.2,
+      "low": 8.78,
+      "open": 8.9
     },
     {
       "code": "605178",
       "name": "时空科技",
-      "price": 98.33,
-      "change_pct": 2.18,
-      "volume": 59188.0,
+      "price": 99.3,
+      "change_pct": 0.99,
+      "volume": 62865.0,
       "turnover": 0,
-      "high": 103.5,
-      "low": 93.41,
-      "open": 95.56
+      "high": 106.93,
+      "low": 98.36,
+      "open": 102.77
     }
   ]
 }
